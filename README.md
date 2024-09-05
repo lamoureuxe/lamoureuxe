@@ -4,6 +4,6 @@ Some of my recent work includes genome informatics (using R and Unix) and comput
 
 My current projects include:
 - Using deep learning (CNNs and transformers) in PyTorch (with automatic hyperparameter optimization) to evaluate red blood cell morphology for assessing its connection to transfusion longevity. 
-- Implementing distributed computing for real-time imaging and inference of microscopy images to identify rare sperm cells in disaggregated testis biopsies. 
+- Conducting real-time computing and inference of microscopy images to identify rare sperm cells in disaggregated testis biopsies. 
 
 How to reach me: erik.lamoureux@ubc.ca
